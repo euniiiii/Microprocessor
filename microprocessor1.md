@@ -8,8 +8,8 @@
 
 ##### 명령어
 * 프로세서가 실행할 수 있는 단위 실행 동작들
-* <span style="background-color: #f1f8ff"> LOAD </span> : 프로세서 내부의 레지스터에 저장하는 동작
-* ==STORE== : 내부의 레지스터의 내용을 메모리에 쓰는 동작
+* <mark style='background-color: f1f8ff'> LOAD </mark> : 프로세서 내부의 레지스터에 저장하는 동작
+* <mark style='background-color: f1f8ff'>STORE</mark> : 내부의 레지스터의 내용을 메모리에 쓰는 동작
 
 ##### 컴파일러
 * c언어와 같은 고급수준의 언어로 작성된 프로그램을 어셈블리 언어 프로그램으로 번역
